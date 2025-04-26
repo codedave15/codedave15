@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Davve!
+# 👋 Hey there, I'm Dave!
 
 Welcome to my GitHub space — where ideas grow into projects! 🚀
 
